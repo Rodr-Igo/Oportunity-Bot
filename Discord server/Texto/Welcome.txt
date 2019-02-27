@@ -1,0 +1,55 @@
+Bienvenido al servidor, este pequeño esta dedicado al ocio.
+Este server contiene 10 categorias de las cuales solo podras ver "Core Base" que es donde todos empezamos
+Si aceptas ser parte de ester servidor *(Mandando el msj Acepto)* podras acceder a las siguientes categorias
+
+*Core Base*
+Canal de texto: 
+`homebase` Donde podras hablar de manera publico con todos los del servidor
+
+*School Stuff*
+Canal de texto:
+`homework`     Aqui podras preguntar cualquier duda que tengas acerca de cualquier tarea dejada
+`remindings`   Podras usar el comando `#remindme` para que el bot te recuerdo lo que tienes que hacer 
+	       (Checar los parametros necesitados con `#help)
+
+*Just chat* Categoria dedicada al chat (Que mas?!)
+Canal de texto
+`Homebase-vocietext` Este es para los que no tienen mic y utilizan el TTS
+
+Canal de voz
+`HomeBase`
+`IRL Talks`
+
+*Chill/Music/Movies/Books/News/Anime*
+Canales de texto
+`games-tech-new` Aqui un bot ira subiendo noticias acerca de videojuego y tecnologia 
+	         (Igual puedes subir alguna info interesante)
+`new-discovery`  Esta dedicado para subir alguna cancion/pelicula/libro/juego interesante y los demas lo descubran
+`youtube-playlist` La comunidad puede subir sus playlist de youtube favoritas y tendran un rating en la comunidad
+`spotify-discovery` La comunidad puede subir caciones de spotify y tendra un rating por la comunidad
+`anime`           El bot dispone de un comando `#anime` el cual podras poner el nombre del anime que recomiendas
+`music`          Dedicado para utilizar el comando `.play` seguido de la cancion que deseas que el bot reproduzca
+`Trailer`        Hay un bot ligado a un canal de youtube que sube los trailes de las nuevas peliculas
+
+***VoiceChat (Games)*** Dedicado para juegar en grupos
+Para no estar creando mas canales de texto el bot puede crear canales temporales con el comando
+`#room ("text" ó "voice") y etiquetas a las personas que pueden ver y acceder al grupo` 
+para cerrar  el canal solo basta con poner el comando `#room` y responder la pregunta *Yes*
+Canales de voz
+***Overwatch***  ***Apex Legends***   ***League of Legends***   ***HS 1 vs 1***   ***Age of Empires***   ***Battlerite***   ***Town of salem***
+            ***RPG's*                                     ***Pinturillo***
+
+***Cubiculos*** Categoria dedicada para trabajos en equipo
+Canal de texto
+`pedir-cubiculo` Aqui mencionaras a los @keyMasters para pedir uno de los 4 cubiculos que se encuentran en el server
+
+***Nota**** Solo se puede accesar con el permiso de los @keyMasters y una vez que devuelvas el cubiculo no podras ver
+        de nuevo el historial de chat por seguridad (plagio de tareas)
+
+Cada cubiculo tiene su canal de voz y texti
+
+***AFK***
+La gente que se AFK por 5 min sera movida automaticamente a esta zona
+
+El resto de los canales necesitas ser level 2> para poder tener conocimientos de estos o acceder a ellos aunque solo son
+de mantenimiento del server o bots

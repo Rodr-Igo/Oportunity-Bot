@@ -1,0 +1,11 @@
+{
+  "name": "oportuniyrover",
+  "version": "0.1.0",
+  "description": "Bot dedicado al servidor The Moon Station Creado por Rodrigo Euan",
+  "main": "bot.js",
+  "author": "Rodrigo Euan (IGO)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
