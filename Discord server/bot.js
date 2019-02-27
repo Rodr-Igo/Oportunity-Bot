@@ -27,7 +27,7 @@ bot.on("message", async (message) => {
   if(message.channel.name === "welcome"){
     console.log("User sent a message in the welcome channel");
 
-    if(message.content.toLowerCase() === `acepto`){
+    if(message.content.toLowerCase() === `acepto` || message.content.toLowerCase() === `Acepto`){
       console.log("User Agree to terms and rules")
       addUserRole(`Undifined Character`,message);
       message.author.send("Felicitaciones ya eres parte del crew!");
